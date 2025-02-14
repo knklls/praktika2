@@ -1,0 +1,202 @@
+
+            div{
+               
+                border: 1px solid black;
+                font-size: 20px;
+                height: 80px;
+            }           
+
+		   #header{
+                background-color: #222324;
+				height: 80px;
+				border:none;
+            }
+			#logo{
+				margin-top:20px;
+				height:20px;
+				width:65px;
+			}
+			
+            #nav{
+                background-color: #222324;
+                border-top: 1px solid #ccc;
+                border-bottom: 1px solid #ccc;
+				height: 80px;
+				margin:0px;
+				padding-left: 180px; 
+				padding-right: 180px;
+				display: flex;
+				gap: 64.5px;
+				padding-top: 10px;
+				padding-bottom: 13px;
+				
+            }
+            #nav ul{
+                margin-left: 0px;
+                padding-left: 200px;
+                list-style: none;
+            }
+            #nav li { 
+                float: left;
+            }
+            #nav ul a {
+                display: block;
+                width: 7em;
+                padding:0px;
+                text-decoration: none;
+                color: white;
+                text-align: center;
+			
+            }
+      
+			#main{
+				background-color: #222324;
+				height: 2190px;
+				margin-right: 20px;
+				margin-left: 20px;
+				border:none;
+			}
+			#isledov{
+				color:#b3ea4a;
+			}
+			
+			#steve{
+				background-color: #222324;;
+				height: 230px;
+				margin-right: 850px;
+			}		
+			
+			#zag {
+				position: absolute;
+				top: 50%;
+				left: 35%;
+				transform: translate(-45%, -70%);
+				color:white;
+				border:none;
+				
+			}
+			#zagalovok
+			{
+				width:1420px;
+			}
+			#kar1 {
+				background-color: #121212;
+				float: left;
+				margin-left: 15px;
+				margin-top: 60px;
+				margin-right:10px;
+				height:120px;
+				width:280px;
+				line-height: 20px;
+		
+				text-align: center;
+
+			}
+			#kark{
+				background-color:DarkStateGrey;
+				height:450px;
+				margin-right:12px;
+				margin-left:80px;
+				width:1240px;
+				border:none;
+			}
+		#artefact{
+			border:none;
+			color:white;
+		}
+			
+			#foto 
+			{
+			background-image: url("image/zakluch.png");
+			width:1412px;
+			height:350px;
+			margin-top:700px;
+			border:none;
+			}
+			
+			#co{
+	            color: white;
+			}
+			
+		#button1 {
+    background: none; 
+    padding: 0; 
+    margin-top: 10px; margin-bottom: 4px; 
+    color: #b3ea4a;
+	border: 2px solid #b3ea4a; 
+	width:100px;
+	height:40px;
+}
+#strelca
+{
+	margin-top:20px;
+	margin-left:450px;
+}
+
+#port{
+	color: #b3ea4av;
+	text-align:center;
+	 transform: translate(80%, -25%);
+}
+
+#article_cont {
+    margin-top: 20px;
+    display: flex;
+    gap: 60px;
+}
+#article_cont img{
+    width: 1500px; height: 600px;
+}
+#article_text{
+    color: #082f01;
+    background-color: #b3ea4a;
+    padding-left: 9px; 
+	padding-right: 9px;
+	height:710px;
+	position:relative;
+}
+#article_text h3 {
+    color:#152223;
+}
+#article_text button {
+    background: none; border: none;
+    margin-top: 10px;
+    margin-left: 0;
+}
+#article_text button img{
+    width: 20px; 
+	height: 10px;
+}
+#Text{
+	width:100px;
+height:40px;
+}
+
+#zakltext{
+	color: white;
+	width:800px;
+    height:200px;
+	border:none;
+}
+#buttzakl{
+color:black;
+background-color: #b3ea4a;
+width:100px;
+height:40px;
+}
+#colors{
+	color:white;
+	text-align:left;
+}
+#colortext{
+	color:#98999e;
+	text-align:left;
+}
+#icon{
+	 display: flex;
+    gap: 50px;
+    margin-left: 600px; 
+}
+#newartefakt{
+	font-family:"Open sans", serif;
+}
