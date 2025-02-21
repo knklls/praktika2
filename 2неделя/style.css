@@ -100,8 +100,8 @@
 	border: 2px solid #b3ea4a; 
 	width:100px;
 	height:40px;
-	 position:absolute; 
-	 bottom: -260px;
+	position:absolute; 
+	bottom: -260px;
 }
 
 .strelca
@@ -160,10 +160,10 @@
 	border:none;
 }
 .buttzakl{
-color:black;
-background-color: #b3ea4a;
-width:100px;
-height:40px;
+	color:black;
+	background-color: #b3ea4a;
+	width:100px;
+	height:40px;
 }
 .colors{
 	color:white;
@@ -174,15 +174,15 @@ height:40px;
 	text-align:left;
 }
 .icon {
- display: flex;
- gap: 50px;
- margin-left: 600px; 
+	display: flex;
+	gap: 50px;
+	margin-left: 600px; 
 }
 .newartefakt{
 	font-family:"Open sans", serif;
 }
 .kark_sect {
-border : none;
+	border : none;
 }
 .scroll {
     display: flex;
