@@ -1,0 +1,238 @@
+
+    div{            
+    border: 1px solid black;
+    font-size: 20px;
+    height: 80px;
+    }           
+
+.header{
+    background-color: #222324;
+	height: 80px;
+	border:none;
+    }
+.logo{
+	margin-top:20px;
+	height:20px;
+	width:65px;
+	}		
+.nav{
+    background-color: #222324;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+	height: 50px;
+	margin:0px;
+	padding-left: 180px; 
+	padding-right: 180px;
+	display: flex;
+	gap: 64.5px;
+	padding-top: 10px;
+	padding-bottom: 13px;			
+    }
+.nav ul{
+    margin-left: 0px;
+    padding-left: 200px;
+    list-style: none;
+    }
+.nav li { 
+    float: left;
+    }
+.nav ul a {
+    display: block;
+    width: 7em;
+    padding:0px;
+    text-decoration: none;
+    color: white;
+    text-align: center;		
+    }
+      
+.main{
+	background-color: #222324;
+	height: 2190px;
+	margin-right: 20px;
+	margin-left: 20px;
+	border:none;
+	}
+.isledov{
+	color:#b3ea4a;
+	}
+			
+.steve{
+	background-color: #222324;
+	height: 230px;
+	margin-right: 850px;
+	}					
+.zag {
+	position: absolute;
+	top: 50%;
+	left: 35%;
+	transform: translate(-45%, -70%);
+	color:white;
+	border:none;
+	}
+.zagalovok
+	{
+	width:1420px;
+	}
+.artefact{
+	border:none;
+	color:white;
+	}
+			
+.foto 
+	{
+	background-image: url("image/zakluch.png");
+	width:1412px;
+	height:350px;
+	margin-top:700px;
+	border:none;
+	}
+			
+.co{
+    color: white;
+	}
+			
+.button1 {
+    background: none; 
+    padding: 0; 
+	margin-bottom: 10px; 
+	margin-left:45px;
+    color: #b3ea4a;
+	border: 2px solid #b3ea4a; 
+	width:100px;
+	height:40px;
+	 position:absolute; 
+	 bottom: -260px;
+}
+
+.strelca
+{
+	width:700px;
+	margin-top:400px;
+	margin-left:600px;
+}
+
+.port{
+	color: #b3ea4av;
+	text-align:center;
+	transform: translate(80%, -25%);
+}
+
+.article_cont {
+    margin-top: 20px;
+    display: flex;
+    gap: 60px;
+}
+.article_cont img{
+    width: 1500px; height: 600px;
+}
+.article_text{
+    color: #082f01;
+    background-color: #b3ea4a;
+    padding-left: 9px; 
+	padding-right: 9px;
+	height:600px;
+	position:relative;
+}
+.article_text h3 {
+    color:#152223;
+	width:250px;
+}
+.article_text button {
+    background: none; border: none;
+    margin-top: 10px;
+    margin-left: 0;
+}
+.article_text button img{
+    width: 20px; 
+	height: 10px;
+}
+.Text{
+	width:100px;
+	height:40px;
+}
+
+.zakltext{
+	color: white;
+	width:800px;
+    height:200px;
+	border:none;
+}
+.buttzakl{
+color:black;
+background-color: #b3ea4a;
+width:100px;
+height:40px;
+}
+.colors{
+	color:white;
+	text-align:left;
+}
+.colortext{
+	color:#98999e;
+	text-align:left;
+}
+.icon{
+	 display: flex;
+    gap: 50px;
+    margin-left: 600px; 
+}
+.newartefakt{
+	font-family:"Open sans", serif;
+}
+.kark_sect{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+	border:none;
+}
+.scroll {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+	border:none;
+	padding-left: 70px;
+}
+.kark {
+	background-image: url("image/Rectangle.jpg");
+	height: 147px;
+    margin-right:auto;
+	border: 1px solid black;
+	width: 285px;
+	margin-bottom:20px;
+}
+.kark_text {
+    border: 1px solid #0B1919;
+    border-radius: 10px;
+    padding-left: 20px;
+	padding-right: 14.5px;
+    height: 320px;
+	width:200px;
+}
+.scroll_page {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.scroll_page img{
+    margin-top: 8px;
+}
+.scroll_page h3 {
+    margin: 0px;
+}
+h1,h2, h3 {
+    font-family: "Cormorant", serif;
+}
+h1{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 48px; 
+    font-style: italic;
+}
+h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
+	margin-top: 16px;
+}
