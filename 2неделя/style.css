@@ -1,5 +1,4 @@
-
-    div{            
+div{            
     border: 1px solid black;
     font-size: 20px;
     height: 80px;
@@ -47,9 +46,9 @@
       
 .main{
 	background-color: #222324;
-	height: 2190px;
-	margin-right: 20px;
-	margin-left: 20px;
+	height: 2220px;
+	margin-right: 1px;
+	margin-left: 1px;
 	border:none;
 	}
 .isledov{
@@ -71,17 +70,18 @@
 	}
 .zagalovok
 	{
-	width:1420px;
+	width:1451px;
 	}
 .artefact{
 	border:none;
 	color:white;
+	margin-left:15px;
 	}
 			
 .foto 
 	{
 	background-image: url("image/zakluch.png");
-	width:1412px;
+	width:1452px;
 	height:350px;
 	margin-top:700px;
 	border:none;
@@ -95,20 +95,20 @@
     background: none; 
     padding: 0; 
 	margin-bottom: 10px; 
-	margin-left:45px;
+	margin-left:3px;
     color: #b3ea4a;
 	border: 2px solid #b3ea4a; 
 	width:100px;
 	height:40px;
 	position:absolute; 
-	bottom: -260px;
+	bottom: -280px;
 }
 
 .strelca
 {
 	width:700px;
 	margin-top:400px;
-	margin-left:600px;
+	margin-left:650px;
 }
 
 .port{
@@ -123,15 +123,15 @@
     gap: 60px;
 }
 .article_cont img{
-    width: 1500px;
-	height: 600px;
+    width: 1520px;
+	height: 610px;
 }
 .article_text{
     color: #082f01;
     background-color: #b3ea4a;
     padding-left: 9px; 
 	padding-right: 9px;
-	height:600px;
+	height:610px;
 	position:relative;
 }
 .article_text h3 {
@@ -158,6 +158,7 @@
 	width:800px;
     height:200px;
 	border:none;
+	margin-left:20px;
 }
 .buttzakl{
 	color:black;
@@ -183,13 +184,14 @@
 }
 .kark_sect {
 	border : none;
+	margin-top:20px;
 }
 .scroll {
     display: flex;
     flex-direction: row;
     gap: 80px;
 	border:none;
-	padding-left: 70px;
+	padding-left: 120px;
 }
 .kark {
 	background-image: url("image/Rectangle.jpg");
