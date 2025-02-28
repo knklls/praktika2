@@ -75,7 +75,7 @@ div{
 .artefact{
 	border:none;
 	color:white;
-	margin-left:15px;
+	margin-left:75px;
 	}
 			
 .foto 
@@ -136,7 +136,7 @@ div{
 }
 .article_text h3 {
     color:#152223;
-	width:250px;
+	width:210px;
 }
 .article_text button {
     background: none;
@@ -158,7 +158,7 @@ div{
 	width:800px;
     height:200px;
 	border:none;
-	margin-left:20px;
+	margin-left:75px;
 }
 .buttzakl{
 	color:black;
@@ -189,9 +189,9 @@ div{
 .scroll {
     display: flex;
     flex-direction: row;
-    gap: 80px;
+    gap: 120px;
 	border:none;
-	padding-left: 120px;
+	padding-left: 75px;
 }
 .kark {
 	background-image: url("image/Rectangle.jpg");
